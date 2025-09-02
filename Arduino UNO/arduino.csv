@@ -1,0 +1,35 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C4",2,1uf,,,,Capacitor_SMD:C_0603_1608Metric,~
+"C2,C3",2,C,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C5,1,C,,,,Capacitor_SMD:C_0805_2012Metric,~
+"C6,C9",2,0.1uf,,,,Capacitor_SMD:C_0603_1608Metric,~
+"C7,C8",2,C_Polarized_Small,,,,Capacitor_SMD:CP_Elec_8x5.4,~
+"C10,C11,C12,C13",4,C,,,,Capacitor_SMD:C_0603_1608Metric,~
+"D1,D3,D4",3,LED,,,,LED_SMD:LED_01005_0402Metric,~
+"D2,D6",2,D,,,,Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~
+D5,1,D,,,,Diode_SMD:D_SOD-523,~
+D7,1,LED,,,,LED_SMD:LED_0603_1608Metric,~
+F1,1,Polyfuse,,,,Resistor_SMD:R_1812_4532Metric,~
+J1,1,USB_B,,,,Connector_USB:USB_B_Lumberg_2411_02_Horizontal,~
+"J2,J5",2,Conn_02x03_Odd_Even,,,,,~
+J3,1,Barrel_Jack_Switch_Pin3Ring,,,,Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal,~
+J4,1,Conn_02x02_Odd_Even,,,,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,~
+"J6,J9",2,Conn_01x08_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,~
+J7,1,Conn_01x10_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,~
+J8,1,Conn_01x06_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,~
+JP1,1,SolderJumper_2_Open,,Excluded from BOM,,,~
+L1,1,L,,,,Inductor_SMD:L_0603_1608Metric,~
+L2,1,L,,,,Inductor_SMD:L_0805_2012Metric,~
+Q1,1,FDN340P,,,,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF
+"R1,R2,R3,R4,R5,R6,R7,R8",8,R,,,,Resistor_SMD:R_0603_1608Metric,~
+R9,1,R,,,,Resistor_SMD:R_0402_1005Metric,~
+"RN1,RN2",2,R_Pack04_Split,,,,Resistor_SMD:R_Array_Concave_4x0402,~
+SW1,1,SW_Omron_B3FS,,,,Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
+"TH1,TH2",2,Thermistor,,,,Resistor_SMD:R_0201_0603Metric,~
+U1,1,LM358,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+U2,1,LP2985-1.8,,,,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/lp2985.pdf
+U3,1,ATmega16U2-M,,,,Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf
+U4,1,NCP1117-1.5_SOT223,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+U5,1,~,,,,user footprint:CSTCE16M0V53-R0,
+U6,1,~,,,,Package_DIP:DIP-28_W7.62mm_SMDSocket_SmallPads,
+Y1,1,Crystal,,,,Crystal:Crystal_HC49-4H_Vertical,~
