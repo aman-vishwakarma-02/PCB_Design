@@ -34,6 +34,5 @@ This repository contains PCB design projects developed using **KiCad** as part o
 - Designing manufacturable and reliable boards  
 - Exposure to embedded and IoT hardware design  
 
-## Author
-**Aman Vishwakarma**  
-Embedded Systems & IoT | PCB Design Learner
+
+
