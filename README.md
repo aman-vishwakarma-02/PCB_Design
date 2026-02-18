@@ -6,17 +6,13 @@ This repository contains PCB design projects developed using **KiCad** as part o
 
 ## Projects Included
 
-### 1. Arduino UNO Board
-- Custom PCB design based on Arduino UNO  
-- Schematic capture and PCB layout  
-- Power regulation and pin mapping  
+### Arduino UNO Board
+### ESP32
 
-### 2. L298N Motor Driver Module
-- PCB design for motor control applications  
-- Power and motor driver section design  
-- Suitable for robotics and automation projects  
+### L298N Motor Driver Module
+ 
 
-### 3. Four-Layer IoT Development Board
+### Four-Layer IoT Development Board
 - Multi-layer PCB design  
 - Focus on signal integrity and power distribution  
 - Designed for IoT and embedded applications  
