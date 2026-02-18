@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LTST-C170KRKT(RED_LED)")(type "KiCad")(uri "D:/KiCad/9.0/downloads/footprint&symbol/LTST-C170KRKT(RED_LED)")(options "")(descr ""))
+  (lib (name "SS-52400-002")(type "KiCad")(uri "D:/KiCad/9.0/downloads/footprint&symbol/SS-52400-002")(options "")(descr ""))
+)
